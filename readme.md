@@ -40,7 +40,8 @@ Vous pouvez exposer ce port en ajoutant l'option -p 8501:8501 à votre commande 
 
 Une fois que vous avez redémarré votre conteneur avec le port correctement exposé, vous devriez pouvoir accéder à votre application Streamlit en utilisant l'adresse suivante dans votre navigateur :
 
-http://localhost:8501
+``http://localhost:8501
+http://127.0.0.1:8501``
 
 ## Arrêt du serveur WSL
 Pour quitter le serveur WSL, utilisez la commande  `exit`.
