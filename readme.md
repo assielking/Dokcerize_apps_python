@@ -1,4 +1,5 @@
 # Dockerize a Python web apps
+Ce projet explique comment cloner un projet machine learning, résoudre un problème de communication entre Docker Desktop et WSL, démarrer une distribution Ubuntu-22.04, construire une image Docker, exposer un port pour Streamlit, accéder à une application Streamlit, et arrêter un serveur WSL.
 
 ## Clonage du projet
 
