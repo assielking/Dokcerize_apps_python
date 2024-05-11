@@ -13,7 +13,7 @@ Si Docker Desktop ne parvient pas à communiquer avec le sous-système Windows p
 
 Redémarrez WSL et exécutez à nouveau Docker Desktop, ou
 Redémarrez votre machine.
-Démarrez de la distribution Ubuntu-22.04 en exécutez la commande suivante en tant qu'administrateur dans votre invite de commande :
+Démarrez au cas écheant la distribution Ubuntu-22.04 en exécutez la commande suivante en tant qu'administrateur dans votre invite de commande :
 
 `wsl --distribution Ubuntu-22.04`
 
